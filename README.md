@@ -1,10 +1,9 @@
-· Yo, htb
 
--> https://app.hackthebox.com/profile/959205
 
-· thm
+·htb -> https://app.hackthebox.com/profile/959205
 
--> https://tryhackme.com/p/evklid
+
+·thm -> https://tryhackme.com/p/evklid
 
 
 
